@@ -1,4 +1,5 @@
 <?php
 phpinfo();
+echo "aaa";
 ?>
-echo "aaa"
+
